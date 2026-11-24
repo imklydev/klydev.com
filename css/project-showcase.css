@@ -24,6 +24,11 @@
 
 .project-showcase h1 {
     color: #3D7ECF;
+    width: 90%;
+}
+
+.project-showcase p {
+    width: 87%;
 }
 
 
